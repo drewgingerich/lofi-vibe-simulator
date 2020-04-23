@@ -1,22 +1,25 @@
-radio search and static:
+sfx:
+- description: radio search and static
   url: https://freesound.org/people/GowlerMusic/sounds/262267/
 
-indie music:
+
+music:
+- asset: indie.wav
   title: Siesta
   artist: Jahzzar
   url: https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Jahzzar/Travellers_Guide_Excerpt/Jahzzar_-_05_-_Siesta.mp3
 
-minimal electronic music:
+- asset: minimal.wav
   title: Night Owl
   artist: Broke For Free
   url: https://files.freemusicarchive.org/storage-freemusicarchive-org/music/WFMU/Broke_For_Free/Directionless_EP/Broke_For_Free_-_01_-_Night_Owl.mp3
 
-piano music:
+- asset: piano.wav
   title: Moonlight Reprise
   artist: Kai Engel
   url: https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Kai_Engel/Irsens_Tale/Kai_Engel_-_04_-_Moonlight_Reprise.mp3
 
-lounge music:
+- asset: lounge.wav
   title: That Ain't Chopin
   artist: Dee Yan-Key
   url: https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Dee_Yan-Key/Frdric_would_cry/Dee_Yan-Key_-_01_-_That_aint_Chopin.mp3
