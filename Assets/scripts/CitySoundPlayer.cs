@@ -17,6 +17,8 @@ public class CitySoundPlayer : MonoBehaviour
 
 	private IEnumerator Start()
 	{
+		yield return new WaitForSeconds(Random.Range(min, max));
+
 		audioSource = gameObject.GetComponent<AudioSource>();
 
 		while (true)
