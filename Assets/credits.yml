@@ -1,25 +1,106 @@
 sfx:
-- description: radio search and static
-  url: https://freesound.org/people/GowlerMusic/sounds/262267/
+- asset-name: radio-noise.wav
+  creator: GowlerMusic
+  title: Radio Static
+  license: CC BY 3.0 
+  changes: yes
+  url: https://freesound.org/people/iamdylanavery/sounds/484273/
 
+- asset: radio-static.wav
+  creator: GowlerMusic
+  title: Radio Static
+  license: CC BY 3.0 
+  changes: yes
+  url: https://freesound.org/people/iamdylanavery/sounds/484273/
+
+- asset: garbage-truck.wav
+  creator: iamdylanavery
+  title: Garbage Truck Passing By
+  license: CC BY 3.0 
+  changes: yes
+  url: https://freesound.org/people/iamdylanavery/sounds/484273/
 
 music:
 - asset: indie.wav
   title: Siesta
   artist: Jahzzar
-  url: https://files.freemusicarchive.org/storage-freemusicarchive-org/music/no_curator/Jahzzar/Travellers_Guide_Excerpt/Jahzzar_-_05_-_Siesta.mp3
+  changes: yes
+  license: CC BY-SA 3.0 
+  url: https://freemusicarchive.org/music/Jahzzar/Travellers_Guide/Siesta
 
 - asset: minimal.wav
   title: Night Owl
   artist: Broke For Free
-  url: https://files.freemusicarchive.org/storage-freemusicarchive-org/music/WFMU/Broke_For_Free/Directionless_EP/Broke_For_Free_-_01_-_Night_Owl.mp3
+  license: CC BY 3.0 
+  changes: yes
+  url: https://freemusicarchive.org/music/Broke_For_Free/Directionless_EP/Broke_For_Free_-_Directionless_EP_-_01_Night_Owl
 
 - asset: piano.wav
   title: Moonlight Reprise
   artist: Kai Engel
-  url: https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Kai_Engel/Irsens_Tale/Kai_Engel_-_04_-_Moonlight_Reprise.mp3
+  license: CC BY-NC 3.0
+  changes: yes
+  url: https://freemusicarchive.org/music/Kai_Engel/Irsens_Tale/Kai_Engel_-_Irsens_Tale_-_04_Moonlight_Reprise
 
 - asset: lounge.wav
   title: That Ain't Chopin
   artist: Dee Yan-Key
-  url: https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/Dee_Yan-Key/Frdric_would_cry/Dee_Yan-Key_-_01_-_That_aint_Chopin.mp3
+  license: CC BY-NC-SA 4.0
+  changes: yes
+  url: https://freemusicarchive.org/music/Dee_Yan-Key/Frdric_would_cry/That_aint_Chopin
+
+- asset: crows.wav and crows2.wav
+  title: Crows
+  artist: blimp66
+  license: CC0 1.0
+  changes: yes
+  url: https://freesound.org/people/blimp66/sounds/353432/
+
+- asset: bird-takeoff.wav
+  title: Pigeons taking off.wav
+  artist: Glaneur de sons
+  license: CC BY 3.0
+  changes: yes
+  url: https://freesound.org/people/Glaneur%20de%20sons/sounds/104954/
+
+- asset: stairs.wav
+  title: Wood Stairs.wav
+  artist: Razzvio
+  license: CC BY 3.0
+  changes: yes
+  url: https://freesound.org/people/Razzvio/sounds/79006/
+
+- asset: door.wav
+  title: Kocking door and open door.wav
+  artist: rivernile7
+  license: CC BY 3.0
+  changes: yes
+  url: https://freesound.org/people/rivernile7/sounds/249573/
+
+- asset: door2.wav
+  title: Door, Church, Close, E.wav
+  artist: InspectorJ
+  license: CC BY 3.0
+  changes: yes
+  url: https://freesound.org/people/InspectorJ/sounds/339677/
+
+- asset: footsteps.wav
+  title: Footsteps_Walk.wav
+  artist: Nox_Sound
+  license: CC0 1.0
+  changes: yes
+  url: https://freesound.org/people/Nox_Sound/sounds/490951/
+
+- asset: car-honk.wav
+  title: Car Honking
+  artist: MicktheMicGuy
+  license: CC0 1.0
+  changes: yes
+  url: https://freesound.org/people/MicktheMicGuy/sounds/434878/
+
+- asset: city-soundscape.wav
+  title: the night.WAV
+  artist: inchadney
+  license: CC BY-NC 3.0
+  changes: yes
+  url: https://freesound.org/people/inchadney/sounds/475744/
